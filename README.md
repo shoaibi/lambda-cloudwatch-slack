@@ -42,6 +42,7 @@ the steps beow:
 
 ### 1. Configure AWS environment
 
+Copy `Makefile.example` as `Makefile`.
 Fill in the variables at the top of the `Makefile`. For example, your
 variables may look like this:
 

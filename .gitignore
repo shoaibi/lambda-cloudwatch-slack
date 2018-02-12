@@ -2,6 +2,6 @@
 .env
 deploy.env
 npm-debug.log
-
+Makefile
 build/
 node_modules/

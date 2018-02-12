@@ -15,7 +15,7 @@ module.exports = {
     },
     cloudwatch: {
       // text in the sns message or topicname to match on to process this service type
-      match_text: "CloudWatchNotifications"
+      match_text: "AlarmName"
     },
     codedeploy: {
       // text in the sns message or topicname to match on to process this service type
